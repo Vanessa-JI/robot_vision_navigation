@@ -1,7 +1,7 @@
 # robot_vision_navigation
 COMP0130: Robot Vision and Navigation
 
-Topics included: 
+Topics covered: 
 - GNSS and Least-Squares Estimation
 - Single-Epoch GNSS Positioning 
 - Inertial and Multisensor Integrated Navigation Systems 
@@ -13,3 +13,5 @@ Topics included:
 - Mapping 
 - SLAM
 - Graphical Models and Factor Graphs
+- Inference and Optimisation 
+- Dense Visual SLAM 
