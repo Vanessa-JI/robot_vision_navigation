@@ -1,4 +1,4 @@
-# robot_vision_navigation
+# Robot Vision and Navigation
 COMP0130: Robot Vision and Navigation
 
 Topics covered: 
